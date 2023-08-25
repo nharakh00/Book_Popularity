@@ -22,12 +22,12 @@ indicator of the popularity of that product. Although this does not consider act
 
 # Insights
 
-Figures 1 and 2 show us which authors have the most ratings. What stands out the most is that these authors are fiction writers of some form. The most common genres among 
+* Figures 1 and 2 show us which authors have the most ratings. What stands out the most is that these authors are fiction writers of some form. The most common genres among 
 these authors are fantasy, sci-fi, romance, and literary criticism. <br>
-From Figure 3 and Figure 4, the top 10 titles with the most ratings and text reviews, respectively, all have the same thing in common: they are fiction titles, and most of 
+* From Figure 3 and Figure 4, the top 10 titles with the most ratings and text reviews, respectively, all have the same thing in common: they are fiction titles, and most of 
 these titles fall under the fantasy genre. <br>
-What the publishing companies in Figures 5 and 6 have in common is that the most common books that each of these books publish are fiction books. <br>
-From Figure 7, the most common book length is from 250-600 pages. Figure 8 shows that English books are by far the most popular kinds of books. <br>
+* What the publishing companies in Figures 5 and 6 have in common is that the most common books that each of these books publish are fiction books. <br>
+* From Figure 7, the most common book length is from 250-600 pages. Figure 8 shows that English books are by far the most popular kinds of books. <br>
 
 # Recommendations
 

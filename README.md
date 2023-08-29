@@ -35,3 +35,7 @@ Based on the results of this analysis, If the primary goal of this company is to
 and focus solely on fiction. In addition to this, the length of these books should be around 250-600 pages and in English. I recommend these genres be fantasy, and the 
 specific fantasy type is unnecessary. It could be dark fantasy, romance fantasy, and science fantasy. In summary, the results of this analysis tell us that the book 
 that will generate the most book sales and royalties will be some form of fantasy book in English with around 250-600 pages.
+
+# Link To Data 
+
+https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks
